@@ -1,0 +1,57 @@
+/*  UNIVERSAL SELECTOR  */
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+section
+{
+	padding-top:100px;
+}
+
+/*  CONTAINER  */
+.container
+{
+	width:80%; 
+	margin:auto;
+}
+
+/*  ROW  */
+.row
+{
+	display:flex;
+}
+.col
+{
+	width:50%;
+}
+
+.icon
+{
+	font-size:50px;
+	padding-right:15px;
+	color:#f5bb18;
+}
+img
+{
+	max-width:100%;
+}
+.row1
+{
+	display:flex;
+	padding-left:20px;
+	
+}
+h2
+{
+	padding-bottom:10px;
+	font-family:poppins,sans-serif;
+	color:#121211c7;
+}
+p
+{
+	padding-bottom:20px;
+	font-family:poppins,sans-serif;
+	color:#1212117a;
+} 
